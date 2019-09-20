@@ -1,19 +1,20 @@
 /* Menu */
 
 .bg-primary {
-  background-color: #277554 !important;
+  background-color: #985F4F !important;
 }
 
 body {
-  background-color: #294F6D !important;
+  background-color: #D5A294 !important;
   margin: 0;
   padding: 0;
   margin-bottom: 100px;
 }
 
 img {
-  margin: 10px;
-  width: 100%;
+  margin: 1px;
+  width: 80%;
+  height: 80%;
   border-width: 1px;
   border-style: solid;
   border-color: black;
@@ -27,6 +28,10 @@ p {
   text-align: center;
   font-size: large;
   font-family: serif;
+}
+
+li {
+  padding-left: 1em;
 }
 
 /*.comment {*/
@@ -47,9 +52,9 @@ p {
   height: 100vh;
   position: fixed;
   top: 0;
-  left: 0;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
   transition: all 0.4s;
+  
 }
 
 .page-content {
