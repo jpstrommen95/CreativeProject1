@@ -11,6 +11,10 @@ body {
   margin-bottom: 100px;
 }
 
+p a {
+  color: #551E00 !important;
+}
+
 .gridImg {
   margin: 1px;
   width: 100%;
@@ -22,6 +26,7 @@ body {
 
 h1 {
   text-align: center;
+  color: #551E00 !important;
 }
 
 p {
